@@ -6,3 +6,4 @@ Thermal inertia also makes warming asymmetrical between day and night: nights wa
 Explore the year-by-year rise in global-mean temperature with a single command-line run.
 
 Watch the warming trend come to life frame by frame.
+https://www.youtube.com/watch?v=O7sNHct3CwE
